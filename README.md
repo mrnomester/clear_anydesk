@@ -51,4 +51,4 @@ powershell.exe -ExecutionPolicy Bypass -File "путь_к_скрипту\clear_a
 ## **⏱ Время выполнения**
 Около 15-20 секунд (включая паузы между операциями)
 
-Copyright © 2025 Кодельник Максим Сергеевич (ООО "Генштаб") | MIT License
+Copyright © 2025 Кодельник Максим Сергеевич | MIT License
